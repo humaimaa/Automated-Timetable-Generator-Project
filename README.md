@@ -134,14 +134,4 @@ Before deploying to production:
 - Configure `ALLOWED_HOSTS` and CORS settings.
 - Use a production-ready database and web server.
 
-## Links
 
-Frontend Application
-
-Backend API
-
-Django Admin
-
-Frontend Source Code
-
-Backend Source Code
