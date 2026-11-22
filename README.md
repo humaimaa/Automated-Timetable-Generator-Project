@@ -136,8 +136,12 @@ Before deploying to production:
 
 ## Links
 
-- Frontend Application
-- Backend API
-- Django Admin
-- Frontend Source Code
-- Backend Source Code
+Frontend Application
+
+Backend API
+
+Django Admin
+
+Frontend Source Code
+
+Backend Source Code
