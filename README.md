@@ -70,7 +70,7 @@ npm run dev
 
 Open the application at:
 
-http://localhost:3001
+http://localhost:3000
 
 By default, the frontend connects to `http://localhost:8000/api`.
 
